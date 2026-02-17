@@ -73,14 +73,6 @@ The dataset includes healthcare-related information such as:
 
 ---
 
-## 👤 Author
-
-**Sakshi Saini**
-Aspiring Data Analyst / Data Engineer
-Skilled in Power BI, SQL, Python, and Data Visualization
-
----
-
 ## Demo / Live Report
 View the live report here:  
 [Healthcare Analytics Dashboard][(https://app.powerbi.com/view?r=eyJrIjoiZjQ3ODExYzAtOTIxZi00ZGM4LTg5NGUtN2Y4MzM1ZjhiNzUxIiwidCI6ImEzMjBlOWZkLTczY2QtNDJkOC04N2M3LWQ4NjEwNDljYzY5MiJ9)](https://app.powerbi.com/view?r=eyJrIjoiMWMyYTIwYmEtMjUwOC00Y2RhLWE3OTQtYTdmZmU3ODAxMGI2IiwidCI6ImEzMjBlOWZkLTczY2QtNDJkOC04N2M3LWQ4NjEwNDljYzY5MiJ9)
@@ -95,3 +87,10 @@ View the live report here:
 <img width="686" height="373" alt="image" src="https://github.com/user-attachments/assets/292af2d3-a469-4d64-8142-2c28ee12a284" />
 <img width="672" height="379" alt="image" src="https://github.com/user-attachments/assets/aab56043-f38e-425a-82b5-0ab2e211223d" />
 
+---
+
+## 👤 Author
+
+**Sakshi Saini**
+Aspiring Data Analyst / Data Engineer
+Skilled in Power BI, SQL, Python, and Data Visualization
